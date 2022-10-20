@@ -1,0 +1,46 @@
+order,name,age,height,party
+1,George Washington,57,189,none
+2,John Adams,61,170,federalist
+3,Thomas Jefferson,57,189,democratic-republican
+4,James Madison,57,163,democratic-republican
+5,James Monroe,58,183,democratic-republican
+6,John Quincy Adams,57,171,democratic-republican
+7,Andrew Jackson,61,185,democratic
+8,Martin Van Buren,54,168,democratic
+9,William Henry Harrison,68,173,whig
+10,John Tyler,51,183,whig
+11,James K. Polk,49,173,democratic
+12,Zachary Taylor,64,173,whig
+13,Millard Fillmore,50,175,whig
+14,Franklin Pierce,48,178,democratic
+15,James Buchanan,65,183,democratic
+16,Abraham Lincoln,52,193,republican
+17,Andrew Johnson,56,178,national union
+18,Ulysses S. Grant,46,173,republican
+19,Rutherford B. Hayes,54,174,republican
+20,James A. Garfield,49,183,republican
+21,Chester A. Arthur,51,183,republican
+22,Grover Cleveland,47,180,democratic
+23,Benjamin Harrison,55,168,republican
+25,Grover Cleveland,55,180,democratic
+25,William McKinley,54,170,republican
+26,Theodore Roosevelt,42,178,republican
+27,William Howard Taft,51,182,republican
+28,Woodrow Wilson,56,180,democratic
+29,Warren G. Harding,55,183,republican
+30,Calvin Coolidge,51,178,republican
+31,Herbert Hoover,54,182,republican
+32,Franklin D. Roosevelt,51,188,democratic
+33,Harry S. Truman,60,175,democratic
+34,Dwight D. Eisenhower,62,179,republican
+35,John F. Kennedy,43,183,democratic
+36,Lyndon B. Johnson,55,193,democratic
+37,Richard Nixon,56,182,republican
+38,Gerald Ford,61,183,republican
+39,Jimmy Carter,52,177,democratic
+40,Ronald Reagan,69,185,republican
+41,George H. W. Bush,64,188,republican
+42,Bill Clinton,46,188,democratic
+43,George W. Bush,54,182,republican
+44,Barack Obama,47,185,democratic
+45,Donald J. Trump,70,191,republican
